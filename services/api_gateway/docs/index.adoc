@@ -1,0 +1,7 @@
+= Alcor API GateWay API Documents
+
+.admin request
+include::{snippets}/admin_get/http-request.adoc[]
+
+.admin response
+include::{snippets}/admin_get/http-response.adoc[]
